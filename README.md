@@ -17,7 +17,7 @@ Start by choosing your character's name and then, from the main menu you can cho
 When you find a treasure, no more treasures can be found at that location. When you find enemies, you lose the game if they kill you and if you kill them, they no longer can be found at that location. While fighting you can take a potion to fully replenish your health if you have one. When you find 3 treasures you win the game.
 
 ## How to run
-1. Clone this repository or download the file `adventure_quest.py`.
+1. Clone this repository or download the file `adventureQuest.py`.
 2. Run in terminal.
 
 ## Example Usage
