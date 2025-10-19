@@ -18,10 +18,7 @@ When you find a treasure, no more treasures can be found at that location. When 
 
 ## How to run
 1. Clone this repository or download the file `adventure_quest.py`.
-2. Open a terminal in the same folder.
-3. Run the game with:
-   ```bash
-   python adventureQuest.py
+2. Run in terminal.
 
 ## Example Usage
 ![Adventure Quest Example](https://github.com/user-attachments/assets/da9a5fb5-4bc6-40fc-aec6-766d40c30883)
