@@ -21,7 +21,7 @@ When you find a treasure, no more treasures can be found at that location. When 
 2. Open a terminal in the same folder.
 3. Run the game with:
    ```bash
-   python adventure_quest.py
+   python adventureQuest.py
 
 ## Example Usage
 ![Adventure Quest Example](https://github.com/user-attachments/assets/da9a5fb5-4bc6-40fc-aec6-766d40c30883)
