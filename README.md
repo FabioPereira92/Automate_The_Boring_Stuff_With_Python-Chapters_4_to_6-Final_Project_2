@@ -21,11 +21,11 @@ found at that location. While fighting you can take a potion to fully replenish 
 if you have one. When you find 3 treasures you win the game.
 
 ## How to run
-1. Clone this repo or download the file 'studentGradebookManager.py'
+1. Clone this repo or download the file 'adventureQuest.py'
 2. Run in terminal
 
 ## Example Usage
-<img width="648" height="1066" alt="image" src="https://github.com/user-attachments/assets/da9a5fb5-4bc6-40fc-aec6-766d40c30883" />
+![Adventure Quest Example](https://github.com/user-attachments/assets/da9a5fb5-4bc6-40fc-aec6-766d40c30883)
 
 ## Tech Stack
 - Python 3.13
