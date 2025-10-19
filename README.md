@@ -7,13 +7,13 @@ The final score is how much gold you have at the end.
 
 ## Features
 Start by choosing your character's name and then, from the main menu you can choose to:
-- Explore, where you risk fighting Goblins, Wolves and Bandits at locations such as a
+- **Explore** - risk fighting Goblins, Wolves and Bandits at locations such as a
 Castle, a Witch House, a Tavern or a Bandit's Lair, to find treasures.
-- Rest, where you replenish your health points full.
-- Check inventory to see what items you have.
-- Shop, where you can buy new items as long as you have enough gold.
-- Show scores, where you can see all the previous scores since the program was open.
-- Exit game to terminate the program.
+- **Rest** - replenish your health points full.
+- **Check inventory** - see what items you have.
+- **Shop** - buy new items as long as you have enough gold.
+- **Show scores** - see all the previous scores since the program was open.
+- **Exit game** - terminate the program.
 
 When you find a treasure, no more treasures can be found at that location. When you find
 enemies, you lose the game if they kill you and if you kill them, they no longer can be
