@@ -33,4 +33,3 @@ if you have one. When you find 3 treasures you win the game.
 
 ## License
 MIT
-
