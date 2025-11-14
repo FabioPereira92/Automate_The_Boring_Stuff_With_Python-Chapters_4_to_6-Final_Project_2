@@ -25,7 +25,7 @@ When you find a treasure, no more treasures can be found at that location. When 
 
 ## Tech Stack
 - Python 3.13
-- Standard library only (random, sys)
+- Standard library: random, sys
 
 ## License
 MIT
